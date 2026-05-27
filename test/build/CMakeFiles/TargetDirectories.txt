@@ -1,0 +1,3 @@
+/home/yanghaocheng/RoboMaster/References/test/build/CMakeFiles/test_app.dir
+/home/yanghaocheng/RoboMaster/References/test/build/CMakeFiles/edit_cache.dir
+/home/yanghaocheng/RoboMaster/References/test/build/CMakeFiles/rebuild_cache.dir

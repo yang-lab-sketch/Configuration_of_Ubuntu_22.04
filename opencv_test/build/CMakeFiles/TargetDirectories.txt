@@ -1,0 +1,3 @@
+/home/yanghaocheng/RoboMaster/References/opencv_test/build/CMakeFiles/opencv_camera.dir
+/home/yanghaocheng/RoboMaster/References/opencv_test/build/CMakeFiles/edit_cache.dir
+/home/yanghaocheng/RoboMaster/References/opencv_test/build/CMakeFiles/rebuild_cache.dir
